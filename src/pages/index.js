@@ -8,8 +8,8 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to the new Open Security Body of Knowledge website.</p>
+    <h1>Mission Statement</h1>
+    <p>The mission of the Open Security Body of Knowledge project is to guide and improve training and mentoring of information security professionals by curating an open repository of role-oriented knowledge.</p>
     <p>Hang in there, we are just getting started!</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
     </div>
