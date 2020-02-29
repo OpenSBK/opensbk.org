@@ -620,3 +620,15 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+.left {
+  float:left;
+}
+
+.right {
+  float:right;
+}
+
+.center {
+  float:center;
+}
