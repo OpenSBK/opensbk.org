@@ -9,7 +9,7 @@ const AboutPage = () => (
   <Layout>
     <SEO title="About OpenSBK" />
     <h1>About OpenSBK</h1>
-    <p>OpenSBK is an organization focused on providing a body of knowledge to improve the information security field.   OpenSBK is working toward non-profit status.</p>
+    <p>OpenSBK is an organization focused on providing a body of knowledge to improve the information security field.  OpenSBK is working toward non-profit status.</p>
     <p>
         <div style={{ maxWidth: `300px`, float: `center`, align: `center`}}>
             <div class="left">Email:</div><div class="right">info@opensbk.org</div><br />

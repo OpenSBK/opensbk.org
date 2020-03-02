@@ -621,6 +621,15 @@ pre tt:after {
   }
 }
 
+/* Added by Kevin */
+
+.menulink {
+  color:grey;
+  margin-left:15px;
+  margin-right:15px;
+  text-decoration:none;
+}
+
 .left {
   float:left;
 }
