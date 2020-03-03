@@ -15,7 +15,7 @@ const Header = ({ siteTitle }) => (
         maxWidth: 960,
         padding: `1.45rem 1.0875rem`,
       }}
-    >
+    ><img src='images/osbk_logo.png' width="100px" height="100px"></img>
       <h1 style={{ margin: 5 }}>
         <Link
           to="/"
